@@ -62,21 +62,19 @@ JUMBOTRON
 .jumbotron {
   display: flex;
   flex-direction: column;
-  background-size: cover; 
-  background-repeat: no-repeat;
   width: 100%;
   justify-content: center;
-  align-items: center; 
+  align-items: center;
+  background-size: cover; 
+  background-repeat: no-repeat;
   opacity: 1;   
   color: white;
   text-shadow: black 0.3em 0.3em 0.3em;
-  margin-bottom: 2rem;
 }
 
-
- .jumbotron p {
-   text-align: center;
- }
+.jumbotron p {
+  text-align: center;
+}
 
 
 
