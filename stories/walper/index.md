@@ -1,7 +1,7 @@
 ---
 title: Marie Writes about food stuffs
 author: Marie Walper
-location: Durham, NC
+location: 
 thumbnail: soapapillas.jpg
 summary: My summary of food goes here.
 date: 2025-08-01
