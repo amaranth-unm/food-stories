@@ -2,7 +2,7 @@
 title: Smoked Fish
 author: Nicholas Hillard
 location: Adrian Michigan
-thumbnail: smoked fish.png
+thumbnail:fish.png
 summary: My connection to my Grandpa through food
 date: 2025-08-01
 layout: base
@@ -18,7 +18,7 @@ This story comes from Nick Hillard who had a deep connection with his Grandpa th
   class="right"
   width="40%"
   caption="fish and family"
-  image-path="smoked fish.png"
+  image-path="fish.png"
 %}
 
 
