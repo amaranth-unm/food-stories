@@ -3,7 +3,7 @@ title: Experiencing School Lunch
 author: Marie Walper
 location: 
 thumbnail: walper-frito-pie.jpg
-Summary: My summary of food goes here.
+summary: My summary of food goes here.
 date: 2025-08-01
 layout: base
 tags:
