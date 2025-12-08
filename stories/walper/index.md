@@ -2,7 +2,7 @@
 title: Marie Writes about food stuffs
 author: Marie Walper
 location: 
-thumbnail: soapapillas.jpg
+thumbnail: walper-frito-pie.jpg
 summary: My summary of food goes here.
 date: 2025-08-01
 layout: base
@@ -19,7 +19,7 @@ This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” u
   class="right"
   width="40%"
   caption="this seems broken"
-  image-path="soapapillas.jpg"
+  image-path="walper-frito-pie.jpg"
 %}
 
 
