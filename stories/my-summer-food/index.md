@@ -21,7 +21,7 @@ This story comes from Michelle Dombrowski, who grew up in Milwaukee, Wisconsin, 
   class="right"
   width="40%"
   caption="Food, Fun, and Summer"
-  image-path="assets/summer-fun-times.png"
+  image-path="summer-fun-times.png"
 %}
 
 
@@ -30,7 +30,7 @@ Summer in Wisconsin was never just about weather. It was a change in rhythm, moo
 
 
 {% include audio.html
-  src="assets/summer-food-story.mp3"
+  src="summer-food-story.mp3"
 %}
 
 
