@@ -38,6 +38,6 @@ The transition from his previous school to his new school is one of new experien
 
 Jace demonstrates clear food preferences with detailed sensory descriptions. His favorite items include New Mexican Frito pies (described as "spicy" and "savory"), bean-and-cheese burritos for breakfast, and spicy chicken sandwiches. He appreciates foods with bold flavors and texture. Conversely, he dislikes items he perceives as bland or of poor quality, such as Lucky Charms cereal (calling it "flavorless"), ham and cheese sandwiches with "slimy and weird" ham, and canned corn in the mashed potato bowls.
 
-The schools offer a diverse range of options to students, from salads and pizza to rotating daily specials. They also introduce them to new foods such as jicama, described as "crunchy little sweet dirt sticks," and asian pears. Jace acknowledges this as a positive experience.
+The schools offer a diverse range of options to students, from salads and pizza to rotating daily specials. They also introduce them to new foods such as jicama, described as "crunchy little sweet dirt sticks," and asian pears. Jace acknowledges this as a positive experience, but his fellow students do not always share his sentiment. 
 
 
