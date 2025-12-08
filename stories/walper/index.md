@@ -3,7 +3,7 @@ title: Experiencing School Lunch
 author: Marie Walper
 location: 
 thumbnail: walper-frito-pie.jpg
-summary: My summary of food goes here.
+summary: Transition from sack lunch to New Mexican Public School Lunch.
 date: 2025-08-01
 layout: base
 tags:
