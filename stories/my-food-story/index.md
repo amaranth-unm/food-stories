@@ -18,7 +18,7 @@ Every year my family heads over to my dad’s grandma’s place for Thanksgiving
 {% include figure.html
   class="right"
   width="40%"
-  caption="What a nice view"
+  caption="What a Gathering"
   image-path="Navajo-Thankgiving.png"
 %}
 
