@@ -2,7 +2,7 @@
 title: My Food Story
 author: Ethyn Hosteen
 location: Thoreau, NM
-thumbnail: thanksgiving.png
+thumbnail: "Thanksgiving.png"
 summary: I spent Thanksgiving with my dad's side of the family and had the best tasting food. Mmmmm!
 date: 2025-011-27
 layout: base
