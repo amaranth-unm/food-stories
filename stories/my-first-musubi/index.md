@@ -2,7 +2,7 @@
 title: My First Taste of Spam Musubi
 author: Damian Chavez
 location: Honolulu, HI
-thumbnail: bbq.png
+thumbnail: caption.jpg
 summary: My Friends introduced me to some of the most interesting cultural meal items during my time in Hawaii
 date: 2025-12-12
 layout: base
