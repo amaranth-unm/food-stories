@@ -19,7 +19,7 @@ This story comes from a student abroad trip I went on in 2024. On one particular
   class="right"
   width="40%"
   caption="What a nice view"
-  image-path="bbq.png"
+  image-path="IMG_E5539"
 %}
 
 
@@ -28,7 +28,7 @@ In this cooking school, we first learned where they got their fresh ingredients 
 
 
 {% include audio.html
-  src="bbq.mp3"
+  src="Mexican Tacos with Litzy edited.mp3"
 %}
 
 
