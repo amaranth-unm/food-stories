@@ -2,8 +2,8 @@
 title: Breakfast Burritos - A New Mexican food
 author: Evan Griseto
 location: Albuquerque, New Mexico
-thumbnail: bbq.png
-summary: My first BBQ was hosted by Chef Boyardee and everyone was very happy. Yummy!
+thumbnail: Breakfast-Burrito.png
+summary: 
 date: 2025-12-12
 layout: base
 tags:
@@ -17,8 +17,8 @@ The speaker is I, Evan Griseto, who am from Albuquerque. One of my favorite thin
 {% include figure.html
   class="right"
   width="40%"
-  caption="What a nice view"
-  image-path="bbq.png"
+  caption="Red or Green?"
+  image-path="Breakfast-Burrito.png"
 %}
 
 
