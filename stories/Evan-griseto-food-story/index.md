@@ -3,7 +3,7 @@ title: Breakfast Burritos - A New Mexican food
 author: Evan Griseto
 location: Albuquerque, New Mexico
 thumbnail: Breakfast-Burrito.png
-summary: 
+summary: Breakfast Burrittos and my experience with different variations
 date: 2025-12-12
 layout: base
 tags:
