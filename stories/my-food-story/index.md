@@ -30,13 +30,13 @@ When I walked in, I got to see cousins, uncles, aunties, and grandma. Not everyo
 ### The Prayer
 By the time we finished catching up, the food was ready. But before anyone touched a plate, we all gathered together and went quiet. My great grandma stood up and spoke in Navajo to the older family members. Later, my mom explained she was saying how proud she was of everyone, how thankful she was for those who came, and even gave thanks for those who couldn’t make it. Then she gave her prayer — a blessing for protection, good luck, and safety.
 
-#### The Feast
-After that, we finally dug in. Turkey, enchiladas, frybread, and yams (my favorite). It wasn’t just a meal; it was a reminder of who we are, where we come from, and how we keep each other going.
 
 {% include audio.html
   src="Thanksgiving.mp3"
 %}
 
+#### The Feast
+After that, we finally dug in. Turkey, enchiladas, frybread, and yams (my favorite). It wasn’t just a meal; it was a reminder of who we are, where we come from, and how we keep each other going.
 
 ## Analysis: Language, Family, and Belonging
 
