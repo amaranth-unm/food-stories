@@ -2,7 +2,7 @@
 title: My First Time Cooking
 author: Sara Flores
 location: Albuquerque, NM
-thumbnail: bbq.png
+thumbnail: stories/ChatGPT Image Dec 10, 2025, 12_03_54 AM.png
 summary: My first Time cooking was at 21 and an experince to be sure
 date: 2025-12-3
 layout: base
