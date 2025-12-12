@@ -1,5 +1,5 @@
 ---
-title: My Thanksgiving
+title: My Family Thanksgiving
 author: Ethyn Hosteen
 location: Thoreau, NM
 thumbnail: "Thanksgiving.png"
