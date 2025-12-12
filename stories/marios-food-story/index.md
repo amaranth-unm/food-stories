@@ -23,7 +23,7 @@ This story comes from Mario Flores who was born in Albuquerque New Mexico, where
 %}
 
 
-## Something more specific
+## Garlic, butter, and the bravery to try.
 She didn’t know it at the time, but that afternoon ended up changing the way she thought about food and history. A student recalls experiencing their first authentic Southern barbecue, where the smell of smoke, the sound of conversation, and the sense of community transformed a meal into something much deeper. They learn from the pitmaster about the tradition’s roots, passed down through generations and reflected in distinct regional sauce styles tied to Southern history. By the end, the student realizes that barbecue is not just food—it’s a living expression of history, family, and belonging.
 
 
