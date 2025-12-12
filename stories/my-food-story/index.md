@@ -13,7 +13,7 @@ tags:
 ---
 
 # Ahe’hee’ to Mother Earth and Father Sky
-Ethyn Hosteen is a first‑year BBA student at UNM Albuquerque. Rooted in Navajo tradition, he reflects on family gatherings, oral history, and foodways that connect heritage to everyday life. His Thanksgiving story highlights prayer, language, and the blending of Navajo and American food traditions.
+Ethyn Hosteen is a first‑year business student at UNM Albuquerque. He grew up in surrounded by Navajo culture and now he carries on those traditions. His Thanksgiving story reflects how prayer, language, and food bring his family together, blending Navajo heritage with American holiday customs
 
 ## Thanksgiving at My Great Grandma’s
 This year I had just come back home the day before Thanksgiving. I slept in late, finishing up assignments since the semester was almost over, and then rushed to get ready while my mom, dad, and two brothers were already moving around. Luckily, my great grandma doesn’t live too far, so we made it in time.
