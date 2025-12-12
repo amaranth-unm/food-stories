@@ -2,7 +2,7 @@
 title: Saucy Italians
 author: Hannah Mahaffey
 location: Albuquerque, NM
-thumbnail: bbq.png
+thumbnail: ChatGPT Dec 12,2025, 02_34_13 PM.png
 summary: I got to learn about how important sauce is to Italians!
 date: 2025-08-01
 layout: base
