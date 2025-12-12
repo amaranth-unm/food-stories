@@ -12,8 +12,8 @@ tags:
   - community
 ---
 
-# Generic Story Title
-This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” usually meant something you did on a gas grill in the backyard. She moved to North Carolina for school, and that’s where she got invited to her first real Southern barbecue. 
+# Transending Land, Sea, and time,
+This Story comes from me, Damian Chavez, but it's larger than I am. It's about a food item that brought me overseas to meet friends, new and old, who would change my life forever, on some of the wildest adventures I've ever had the pleasure of undertaking. Now let's begin!!!!!
 
 {% include figure.html
   class="right"
@@ -23,8 +23,8 @@ This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” u
 %}
 
 
-## Something more specific
-She didn’t know it at the time, but that afternoon ended up changing the way she thought about food and history. A student recalls experiencing their first authentic Southern barbecue, where the smell of smoke, the sound of conversation, and the sense of community transformed a meal into something much deeper. They learn from the pitmaster about the tradition’s roots, passed down through generations and reflected in distinct regional sauce styles tied to Southern history. By the end, the student realizes that barbecue is not just food—it’s a living expression of history, family, and belonging.
+## Musubi, as proud as it is simple.
+I wouldn't know what I was in for, and I was probably the most nervous I had ever been in my whole life. Imagine being 16 years old and traveling over the ocean to an isolated body of land surrounded by the sea … BY YOURSELF NO LESS. That's where I found myself traveling to a video-game tournament that would actually change the course of my late teens. But between friends and shared meals of food items like the Musubi, I hold so dear. I would discover not just camaraderie, but also found family and profound history in bite-sized form.
 
 
 {% include audio.html
@@ -32,7 +32,7 @@ She didn’t know it at the time, but that afternoon ended up changing the way s
 %}
 
 
-## Analysis: Smoke, Memory, and Belonging
+## Analysis: Earthie, Salty but Free
 
 Listening back to this oral history, what first stands out is how quickly the story moves from describing food to describing a feeling. The narrator begins with sensory detail — the smell of smoke, the chatter under the trees, the look of the smoker — but those descriptions quickly become about *community* rather than cuisine. That shift captures one of the big themes we’ve discussed in class: that food events are not just about eating but about sustaining relationships, passing on traditions, and affirming a sense of belonging. The barbecue becomes a living archive of memory and connection — something that exists through repetition and participation more than through written recipes.
 
