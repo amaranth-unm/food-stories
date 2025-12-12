@@ -1,43 +1,34 @@
 ---
-title: My First BBQ
-author: Fred Gibbs
-location: Durham, NC
-thumbnail: bbq.png
-summary: My first BBQ was hosted by Chef Boyardee and everyone was very happy. Yummy!
-date: 2025-08-01
+title: New Mexican Chili
+author: Elizabeth Salway
+location: Rio Rancho, NM
+thumbnail: ![image](https://github.com/user-attachments/assets/2b0e7464-1f63-4350-bd5b-3d6a69b564d2)
+summary: A very yummy chili recipie! 
+date: 2025-12-12
 layout: base
 tags:
-  - BBQ
-  - cookout
+  - chili
+  - cooking
   - community
 ---
 
-# Generic Story Title
-This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” usually meant something you did on a gas grill in the backyard. She moved to North Carolina for school, and that’s where she got invited to her first real Southern barbecue. 
+# Beth's Chili Recipe 
+About the speaker: My name is Elizabeth Salway, or Beth, I am a junior at the University of New Mexico, history major and museum studies minor. I am 21 and I grew up in the United States, specifically the state of New Mexico. I do not have strong ties to any of my ancestral cultures, but I am genetically Danish and English, if you trace it back far enough anyway. 
 
-{% include figure.html
-  class="right"
-  width="40%"
-  caption="What a nice view"
-  image-path="bbq.png"
-%}
+ ![image](https://github.com/user-attachments/assets/140d3720-ddf0-487f-a925-8fefe87dcdd3)
+Green Chili
 
 
-## Something more specific
-She didn’t know it at the time, but that afternoon ended up changing the way she thought about food and history. A student recalls experiencing their first authentic Southern barbecue, where the smell of smoke, the sound of conversation, and the sense of community transformed a meal into something much deeper. They learn from the pitmaster about the tradition’s roots, passed down through generations and reflected in distinct regional sauce styles tied to Southern history. By the end, the student realizes that barbecue is not just food—it’s a living expression of history, family, and belonging.
+
+## Audio and Audio Transcription 
+
+Hello, I’m Elizabeth Salway and today I am going to talk about my chili recipe. My recipe is an amalgamation of many different chili recipes, kind of a frankenstein situation. I did a lot of research, by which I mean I scrolled pinterest and stole whatever sounded good. The recipe took a couple different forms during the testing stage, before becoming what it is now. It's similar to Texas chili, except that I include beans. Chili typically uses red meat, some people use chicken, but I do not. As far as I am concerned, chicken chili isn’t the same, but that's just a personal preference. I use chuck roast, because ground beef is simply not as good. It does mean more labor, but the end result is worth it. I am obviously biased, but this chili is pretty damned good, if I do say so myself. And, if my hype for the recipe isn't enough just ask one of the many people who consistently ask me to make it. My brother, for example, is a big fan. I often make it for his birthday. 
+Anyway, without further adieu, I’ll jump into the recipe. The ingredients list is extensive, so just bare with me. You're going to need a good sized chuck roast, proportional to the number of people you would like to feed. Luckily the chili stretches well, so even if it has less meat it's still going to feed a lot of people. As far as the actual chilies go you will  need 2-3 jalapenos, one or two habanero peppers depending on your preference, and lots of green chili, approximately 3-4. I don't measure the green chili I just use as much as I want, which tends to result in a good sized heap. Depending on where you live green chili may be hard to find. I’m a New Mexico native so I am rather fond of green chili and personally I just don't feel like the recipe is the same without it. You can use fresh or frozen, or in an emergency canned green chili will do. But, I only resort to canned if I have to. The vegetables in this recipe include two bell peppers, I use one red and one yellow, but honestly it's arbitrary, and a large white onion. Then I use three kinds of beans, one can of each, kidney beans, black beans, and pinto beans. For flavoring and spices you will need salt, pepper, garlic (fresh not powdered), onion powder, chili powder, paprika, red cayenne pepper powder, ginger, cumin, chipotle powder, and cocoa powder. The cocoa powder is the most important, it may seem odd but just trust me. It helps bring out all the other spices and gives it a richer flavor. You will use a full tablespoon of cocoa powder but unfortunately I don't have any measurements for the other spices. I am so sorry to all who are frustrated by this, but I simply season to my hearts content. Lastly, you will need a small 6 oz can of tomato paste, chicken and beef bouillon (I use the brand better than bouillon, because it's good and I can easily find it in my local grocery store). And then worcestershire sauce, olive oil, water, and corn starch for thickening. For toppings and serving I use sour cream, cilantro, sliced avocado and tomatoes, shredded cheese, and corn chips for dipping and crunch. 
+The process is rather simple, but it does take at least 5 hours of babysitting. You will start by chopping all the chilis, the bell peppers, and the onion. Add them to a large pot with a little bit of olive oil and some fresh garlic, I use a big heaping spoonful of garlic, don't be afraid, just use more than you think you should. Simmer all this together at medium heat until the onion starts to get a little transparent and then add all your spices except for the cocoa powder. Again, I have no measurements, but the vegetables should be coated in a healthy layer of red and you should be able to smell the cumin peaking through all the other spices. Stir it all together and then add your chuck roast on top. No need to cut it up, just stick the whole thing in there. At this point I like to move the vegetables around so they cover the top of the roast and kind of spread the seasoning around. Now you will add enough water to just barely cover the top of the roast. Then add the chicken and beef bouillon, a spoonful or cube of each, worcestershire sauce, half the can of tomato paste, cocoa powder, and if needed more spices. Now you will lower the heat, put a lid on top, and let it simmer for 4 hours. Occasionally, once or twice an hour, check in on it, stir to ensure nothing burns on the bottom and if needed top off the water. After an hour or two your entire house should smell like chili. At the 4 hour mark check on the chili, at this point the meat should be falling apart, you can use a fork to help it along and shred the rest. If it's not falling apart it needs some more time. After the meat has been shredded you will add your beans, you don't want to put them in too early because then you will end up with mush but you want them to have enough time to soak up some of the flavor. I usually drain two of the cans and leave the last un-drained because it helps thicken it, but I don't want all the liquid because it will dilute the chili. Lastly let it simmer for another hour before fully thickening the chili. I use around 1 ½ to 2 tablespoons of corn starch. Put the corn starch in a cup and add a little water, stir it together until fully combined, this will help you avoid lumps in the chilli. Then pour your mixture into the chili and stir. You can repeat this step as many times as you need until it is thickened to your liking. After you’ve thickened it to your liking you can pull it off the heat and serve! 
+This chili has become a celebration food for my family, typically made for special occasions, but sometimes I make it just because I want it and no one can stop me. It’s deceptively complicated, as in it's actually very easy, but anyone without experience tends to think it's laborious. It's a labor of love more than anything else, I put care into it, but my familiarity with the process means I don’t need to exert much of an effort. My favorite thing about this recipe is that it’s a crowd pleaser, which means it's my go to recipe for friends and family get togethers. It’s just not the kind of food you eat by yourself. I mean firstly it makes a whole lot of food and If I was being sentimental, which I guess I am, I would say it pairs well with a good conversation. Anyway, if you decide to make it for yourself I recommend you take some time to enjoy the process. And, I sure hope you like spicy food, because if not you are in for a very rude awakening. Enjoy!
+
+Audio: 
 
 
-{% include audio.html
-  src="bbq.mp3"
-%}
+## Analysis: Beef, Beans, and Green Chili!
 
-
-## Analysis: Smoke, Memory, and Belonging
-
-Listening back to this oral history, what first stands out is how quickly the story moves from describing food to describing a feeling. The narrator begins with sensory detail — the smell of smoke, the chatter under the trees, the look of the smoker — but those descriptions quickly become about *community* rather than cuisine. That shift captures one of the big themes we’ve discussed in class: that food events are not just about eating but about sustaining relationships, passing on traditions, and affirming a sense of belonging. The barbecue becomes a living archive of memory and connection — something that exists through repetition and participation more than through written recipes.
-
-The story also reflects the idea of **embodied knowledge and generational transmission**. The pitmaster’s line about learning from his grandfather and letting “the meat tell you when it’s ready” shows that expertise here isn’t formal or codified; it’s experiential and relational. In class, we’ve talked about how food work often relies on skills that are undervalued or unrecorded — the kinds of knowledge passed along by doing, by apprenticeship, by memory. In this sense, barbecue exemplifies what we might call *vernacular expertise*: a tradition maintained through labor, observation, and care, rather than through institutional authority.
-
-When the narrator mentions the regional sauces — vinegar, mustard, tomato — and notes that each corresponds to a different part of the South, the story expands into a meditation on **regional identity and historical layering**. As we’ve read, those variations aren’t just matters of taste but markers of geography, migration, and cultural blending. The acknowledgment of Indigenous and African roots gestures toward the deeper and often erased histories embedded in “Southern” foodways. What feels like a casual backyard gathering is, on another level, the product of centuries of adaptation, exchange, and inequality.
-
-Finally, the closing reflection — that the barbecue was “bigger than one meal” and “about belonging” — aligns with our discussions about **food as cultural memory**. The student recognizes that what endures isn’t just the recipe or the flavor, but the shared experience: the smoke, the labor, the crowd, the sense of continuity. In that moment, the story illustrates how oral histories capture what archives often miss — the *ephemeral* parts of culture that make history feel alive. Through sound, emotion, and
