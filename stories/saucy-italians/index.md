@@ -2,7 +2,7 @@
 title: Saucy Italians
 author: Hannah Mahaffey
 location: Albuquerque, NM
-thumbnail: ChatGPT Dec 12,2025, 02_34_13 PM.png
+thumbnail: ChatGPT Image Dec 12,2025, 02_34_13 PM.png
 summary: I got to learn about how important sauce is to Italians!
 date: 2025-08-01
 layout: base
@@ -19,7 +19,7 @@ This story comes from my roommate and bestfriend who is a first generation Itali
   class="right"
   width="40%"
   caption="Nonno cooking with his granddaughter"
-  image-path="ChatGPT Dec 12,2025, 02_34_13 PM.png"
+  image-path="ChatGPT Image Dec 12,2025, 02_34_13 PM.png"
 %}
 
 
