@@ -2,7 +2,7 @@
 title: My First Time Cooking
 author: Sara Flores
 location: Albuquerque, NM
-thumbnail: stories/marios-food-story/Scampi.png
+thumbnail: Scampi.png
 summary: My first Time cooking was at 21 and an experince to be sure
 date: 2025-12-3
 layout: base
@@ -19,7 +19,7 @@ This story comes from Mario Flores who was born in Albuquerque New Mexico, where
   class="right"
   width="40%"
   caption="Something New"
-  image-path="stories/marios-food-story/Scampi.png"
+  image-path="Scampi.png"
 %}
 
 
