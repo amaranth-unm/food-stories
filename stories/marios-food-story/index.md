@@ -12,7 +12,7 @@ tags:
   - learning to adult
 ---
 
-# Generic Story Title
+# Shrimp Scampi: A First-Time Fiasco (With Extra Butter)
 This story comes from Mario Flores who was born in Albuquerque New Mexico, where as the youngest child he didn't really have the need to cook. Someone was always cooking or the older children were buying the fast food they were never allowed to have as children. 
 
 {% include figure.html
