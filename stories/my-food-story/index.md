@@ -7,7 +7,7 @@ summary: I spent Thanksgiving with my dad's side of the family and had the best 
 date: 2025-011-27
 layout: base
 tags:
-  - Thanksgiving
+  - thanksgiving
   - cookout
   - family
 ---
