@@ -12,27 +12,27 @@ tags:
   - Grandparents
 ---
 
-# Generic Story Title
+# Saucy Italians
 This story comes from my roommate and bestfriend who is a first generation Italian American. Her father implemented a lot of Italian traditions for their family, but the real tradition came from her "Nonno" and his rigourous chopping methods.  
 
 {% include figure.html
   class="right"
   width="40%"
-  caption="What a nice view"
-  image-path="bbq.png"
+  caption="Nonna cooking with his granddaughter"
+  image-path="ChatGPT Dec 12,2025, 02_34_13 PM.png"
 %}
 
 
-## Something more specific
+## Nonna is Coming to Visit!
 Growing up, food was super important to bring her family together. "Nonno" would visit for weeks at a time and during the first days of his vacation, he would spend hours cooking his family-famous sauce that marked the time for celebration. Dania, my bestie, would spend hours chopping and dicing and simmering and enjoying this simple yet flavorful pasta sauce with her "Nonno". The memories were littered throughout her childhood, up until her beloved "Nonno" passed away, which led to her family resorting to machinery to recreate this delicious sauce. It's noted that machinery changes the flavor just a tad, which goes to show how important from-scratch cuisine can be in a nostalgic setting.
 
 
 {% include audio.html
-  src="bbq.mp3"
+  src="Food Story.m4a"
 %}
 
 
-## Analysis: Chopping, Dicing, and Simmering
+## Chopping, Dicing, and Simmering
 
 When listening to this audio interview, my first thoughts were of my family traditions and how important from-scratch meals are to us. Dania describes the time it took to make this delicate sauce, it involved hours upon hours of chopping and simmering. To a young girl, this may be a bit exaggerated, but I think it is important to keep in mind because of the **nostalgia** behind the words. The purpose of the meal was to celebrate "Nonno" coming to town, and anyone that knew him would have a place at the dinner table. This food is about tradition and celebration, bringing people together with just a few minced vegetables and handmade pasta. 
 
