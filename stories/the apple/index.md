@@ -1,6 +1,6 @@
 ---
 title: The Apple
-author: Rae French
+author: Rae F
 location: all about
 thumbnail: bbq.png
 summary: Thoughts on America's favorite fruit
@@ -13,9 +13,9 @@ tags:
 ---
 
 # Encounters with the apple
-by Rae F. (26, resident of Albuquerque, NM)
+by Rae (26, resident of Albuquerque, NM)
 
-Find here three brief anecdotes in response to a prompt to share "any memorable experience with apples in one's life." Respondents are dear friends of mine: Nino (34, resident of western Massachusetts), Scout (27, resident of NYC), and Dawood (29, roaming resident of all over).  
+Find here brief anecdotes in response to a prompt to share "any memorable experience with apples in one's life." Respondents are dear friends of mine: Nino (34, resident of western Massachusetts), Scout (27, resident of NYC), J (49, resident of Phoenix, AZ), and Dawood (29, roaming resident of all over).  
 
 {% include figure.html
   class="right"
@@ -26,7 +26,7 @@ Find here three brief anecdotes in response to a prompt to share "any memorable 
 
 
 ## The mundane and the magical
-These conversations feature takes on the apple that range from the quotidienne to the enlightening. Sometimes discussed in utilitarian terms, sometimes reverred as a source of awe, the apple evoked thorough reply from every speaker. No conversation was confined to the gustatory realm. Yet, taste and texture remained a significant factor in my friends' articulation of their experience with apples...woe is the humble, meealy apple. All hail the *crisp*. 
+These conversations feature takes on the apple that range from the quotidienne to the enlightening. Sometimes discussed in utilitarian terms, sometimes revered as a source of awe, the apple evoked thorough reply from every speaker. No conversation was confined to the gustatory realm. Yet, taste and texture remained a significant factor in my friends' articulation of their experience with apples...woe is the humble, mealy apple. All hail the *crisp*. 
 
 
 #### Nino - the fruit of knowledge 
@@ -34,6 +34,10 @@ These conversations feature takes on the apple that range from the quotidienne t
   src="nino.mp3"
 %}
 #### Scout - sliced just right 
+{% include audio.html
+  src="scout.mp3"
+%}
+#### J - gourmandise 
 {% include audio.html
   src="scout.mp3"
 %}
