@@ -18,8 +18,8 @@ This story comes from Sandy Woods, my grandma. She grew up in West Verginia on t
 {% include figure.html
   class="right"
   width="40%"
-  caption="What a nice view"
-  image-path="bbq.png"
+  caption="A Tangy and Tasty Treat"
+  image-path="pickled-corn-image.webp"
 %}
 
 
@@ -28,7 +28,7 @@ She didn’t know it at the time, but that afternoon ended up changing the way s
 
 
 {% include audio.html
-  src="bbq.mp3"
+  src="pickled-corn-story.mp3"
 %}
 
 
