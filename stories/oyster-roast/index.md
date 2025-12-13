@@ -12,19 +12,19 @@ tags:
   - community
 ---
 
-# Generic Story Title
-This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” usually meant something you did on a gas grill in the backyard. She moved to North Carolina for school, and that’s where she got invited to her first real Southern barbecue. 
+# South Carolina Oyster Roasts
+This story is from Jared, who grew up on Folly Beach, a small island in South Carolina. As a teen, he spent most of his time surfing, eating seafood, and hanging out at the beach with his friends. He remembers oyster roasts fondly as a time to have fun and celebrate with all his loved ones. 
 
 {% include figure.html
   class="right"
   width="40%"
   caption="What a nice view"
-  image-path="bbq.png"
+  image-path="2EEP1447+(1).webp"
 %}
 
 
-## Something more specific
-She didn’t know it at the time, but that afternoon ended up changing the way she thought about food and history. A student recalls experiencing their first authentic Southern barbecue, where the smell of smoke, the sound of conversation, and the sense of community transformed a meal into something much deeper. They learn from the pitmaster about the tradition’s roots, passed down through generations and reflected in distinct regional sauce styles tied to Southern history. By the end, the student realizes that barbecue is not just food—it’s a living expression of history, family, and belonging.
+## An Island-Wide Party
+During the winter months, it’s common to have oyster roasts on the beach or the marshes, where people make a big bonfire, cover up pounds of oysters with burlap sacks to steam them, and enjoy the oysters, seafood, and beer with their family and friends. The cookouts can last for hours and, especially on a small island like Folly, were a chance for everyone to gather and connect, share stories and laughter, and engage in this ritual as a community.
 
 
 {% include audio.html
@@ -32,12 +32,9 @@ She didn’t know it at the time, but that afternoon ended up changing the way s
 %}
 
 
-## Analysis: Smoke, Memory, and Belonging
+## Analysis: How Rituals Create Community
 
-Listening back to this oral history, what first stands out is how quickly the story moves from describing food to describing a feeling. The narrator begins with sensory detail — the smell of smoke, the chatter under the trees, the look of the smoker — but those descriptions quickly become about *community* rather than cuisine. That shift captures one of the big themes we’ve discussed in class: that food events are not just about eating but about sustaining relationships, passing on traditions, and affirming a sense of belonging. The barbecue becomes a living archive of memory and connection — something that exists through repetition and participation more than through written recipes.
+While Jared loves oysters and eats them at any opportunity, what stands out to him most about these memories is the sense of family. On a small island where everybody knows everybody, your friends and neighbors become extended family. Oyster roasts bring a sense of ritual to a common food, and the meal itself may be forgettable, but it becomes special when everyone decides to come together at the same time to prepare and enjoy the feast.
+He describes his friend’s first oyster roast as almost a rite of passage – oysters have a notoriously slimy texture, so eating an especially large one could be a point of pride or a chance for competition between friends. But even if it’s not eaten successfully, simply participating in the ritual serves as an initiation. He also describes how the host would allow the teenagers to drink as long as they stayed the night so he could watch over them, acting as a parental figure because it was such a small community. Jared and his family later took over hosting to carry on the tradition and teach the next generation.
+These stories exemplify how food is used for tradition, culture, and belonging. People can feel like an insider once they participate in the accepted rituals (or foods) of the community, which gives them a sense of belonging. The oysters are valued in this case because of their regionality – this is one of the few places you can get them fresh, and it gives people a sense of cultural pride, and nostalgia for this food when they’re away from home. 
 
-The story also reflects the idea of **embodied knowledge and generational transmission**. The pitmaster’s line about learning from his grandfather and letting “the meat tell you when it’s ready” shows that expertise here isn’t formal or codified; it’s experiential and relational. In class, we’ve talked about how food work often relies on skills that are undervalued or unrecorded — the kinds of knowledge passed along by doing, by apprenticeship, by memory. In this sense, barbecue exemplifies what we might call *vernacular expertise*: a tradition maintained through labor, observation, and care, rather than through institutional authority.
-
-When the narrator mentions the regional sauces — vinegar, mustard, tomato — and notes that each corresponds to a different part of the South, the story expands into a meditation on **regional identity and historical layering**. As we’ve read, those variations aren’t just matters of taste but markers of geography, migration, and cultural blending. The acknowledgment of Indigenous and African roots gestures toward the deeper and often erased histories embedded in “Southern” foodways. What feels like a casual backyard gathering is, on another level, the product of centuries of adaptation, exchange, and inequality.
-
-Finally, the closing reflection — that the barbecue was “bigger than one meal” and “about belonging” — aligns with our discussions about **food as cultural memory**. The student recognizes that what endures isn’t just the recipe or the flavor, but the shared experience: the smoke, the labor, the crowd, the sense of continuity. In that moment, the story illustrates how oral histories capture what archives often miss — the *ephemeral* parts of culture that make history feel alive. Through sound, emotion, and storytelling, this single barbecue becomes a microhistory of American food itself: regional yet shared, ordinary yet full of meaning.
