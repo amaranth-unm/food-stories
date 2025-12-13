@@ -32,7 +32,7 @@ She didn’t know it at the time, but that afternoon ended up changing the way s
 %}
 
 
-## Analysis: Smoke, Memory, and Belonging
+## Analysis: Layers of Authenticity
 
 I feel like there is a joke here about how an analysis is like a lasagna because of the layers, but I’ll move on.I chose this story because it meant a lot to me from a family level. It made me think a lot about authenticity and the way homecooked meals will always be different from a restaurant. It made me think about how authenticity can come down to something so personal even though it starts so broad. I probably won’t be able to happily eat lasagna cooked by another person, because unless my Mamaw is making it, its not authentic. I think it really boils down to what level of authenticity we are looking for. If we are looking for something made a specific way by a specific person, then the authenticity is impossible to recreate. But if we just go off authentic ingredients, we get things like microwave lasagna. Its close, but at the same time not where near it.
 
