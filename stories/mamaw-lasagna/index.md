@@ -3,7 +3,7 @@ title: Mamaw's Lasanga
 author: Jessica Neubauer
 location: Abq, NM
 thumbnail: bbq.png
-summary: In April of 2024, my Mamaw passed away. It was a rough time, but something I keep going back to for comfort is her food. To this day, I think she made the best lasagna I’ve ever eaten. Here’s my story about why.
+summary: A story about the significance of food after loss.
 date: 2025-12-12
 layout: base
 tags:
@@ -24,7 +24,7 @@ In April of 2024, my Mamaw passed away. It was a rough time, but something I kee
 
 
 ## Something more specific
-She didn’t know it at the time, but that afternoon ended up changing the way she thought about food and history. A student recalls experiencing their first authentic Southern barbecue, where the smell of smoke, the sound of conversation, and the sense of community transformed a meal into something much deeper. They learn from the pitmaster about the tradition’s roots, passed down through generations and reflected in distinct regional sauce styles tied to Southern history. By the end, the student realizes that barbecue is not just food—it’s a living expression of history, family, and belonging.
+I didn't know what my Mamaw's recipes were going to mean to me until she was gone. Until I couldn't ask her anymore what the secret was or if she could make it for me.
 
 
 {% include audio.html
