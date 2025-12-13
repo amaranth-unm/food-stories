@@ -13,7 +13,7 @@ tags:
 ---
 
 # Encounters with the apple
-Find here three brief anecdotes in response to a prompt to share "any memorable experience with apples in one's life." Respondents are Nino (34, resident of western Massachucettes), Scout (27, resident of NYC), and Dawood (29, roaming resident of all over).  
+Find here three brief anecdotes in response to a prompt to share "any memorable experience with apples in one's life." Respondents are Nino (34, resident of western Massachusetts), Scout (27, resident of NYC), and Dawood (29, roaming resident of all over).  
 
 {% include figure.html
   class="right"
@@ -24,6 +24,7 @@ Find here three brief anecdotes in response to a prompt to share "any memorable 
 
 
 ## The mundane and the magical
+These conversations feature takes on the apple that range from the quotidienne to the enlightening. Sometimes discussed in utilitarian terms, sometimes reverred as a source of awe, the apple evoked thorough reply from every speaker. 
 
 
 #### Nino - the fruit of knowledge 
