@@ -1,19 +1,19 @@
 ---
-title: My First BBQ
-author: Fred Gibbs
-location: Durham, NC
+title: Mamaw's Lasanga
+author: Jessica Neubauer
+location: Abq, NM
 thumbnail: bbq.png
-summary: My first BBQ was hosted by Chef Boyardee and everyone was very happy. Yummy!
-date: 2025-08-01
+summary: In April of 2024, my Mamaw passed away. It was a rough time, but something I keep going back to for comfort is her food. To this day, I think she made the best lasagna I’ve ever eaten. Here’s my story about why.
+date: 2025-12-12
 layout: base
 tags:
-  - BBQ
-  - cookout
+  - family
+  - together
   - community
 ---
 
-# Generic Story Title
-This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” usually meant something you did on a gas grill in the backyard. She moved to North Carolina for school, and that’s where she got invited to her first real Southern barbecue. 
+# Mamaw's Lasagna
+In April of 2024, my Mamaw passed away. It was a rough time, but something I keep going back to for comfort is her food. To this day, I think she made the best lasagna I’ve ever eaten. Here’s my story about why.
 
 {% include figure.html
   class="right"
@@ -34,10 +34,10 @@ She didn’t know it at the time, but that afternoon ended up changing the way s
 
 ## Analysis: Smoke, Memory, and Belonging
 
-Listening back to this oral history, what first stands out is how quickly the story moves from describing food to describing a feeling. The narrator begins with sensory detail — the smell of smoke, the chatter under the trees, the look of the smoker — but those descriptions quickly become about *community* rather than cuisine. That shift captures one of the big themes we’ve discussed in class: that food events are not just about eating but about sustaining relationships, passing on traditions, and affirming a sense of belonging. The barbecue becomes a living archive of memory and connection — something that exists through repetition and participation more than through written recipes.
+I feel like there is a joke here about how an analysis is like a lasagna because of the layers, but I’ll move on.I chose this story because it meant a lot to me from a family level. It made me think a lot about authenticity and the way homecooked meals will always be different from a restaurant. It made me think about how authenticity can come down to something so personal even though it starts so broad. I probably won’t be able to happily eat lasagna cooked by another person, because unless my Mamaw is making it, its not authentic. I think it really boils down to what level of authenticity we are looking for. If we are looking for something made a specific way by a specific person, then the authenticity is impossible to recreate. But if we just go off authentic ingredients, we get things like microwave lasagna. Its close, but at the same time not where near it.
 
-The story also reflects the idea of **embodied knowledge and generational transmission**. The pitmaster’s line about learning from his grandfather and letting “the meat tell you when it’s ready” shows that expertise here isn’t formal or codified; it’s experiential and relational. In class, we’ve talked about how food work often relies on skills that are undervalued or unrecorded — the kinds of knowledge passed along by doing, by apprenticeship, by memory. In this sense, barbecue exemplifies what we might call *vernacular expertise*: a tradition maintained through labor, observation, and care, rather than through institutional authority.
+As a fun fact for this, my grandma is Canadian. I learned recently that lasagna is a comfort food in Canada and the fact the she puts cottage cheese in it is because of that too. I haven’t seen a single “American” recipe that calls for cottage cheese in lasagna, but that is part of what makes it so good. Its interesting to see her heritage come through in ways like that. She passed in April of ’24, six months after my sister had passed. It was a rough time for us as a family, and we ended up having four deaths that year. One of the things that I turned to for comfort was her food. I have an entire recipe book filled with ones she had either collected or written down. When I want to feel close to her, I cook. 
 
-When the narrator mentions the regional sauces — vinegar, mustard, tomato — and notes that each corresponds to a different part of the South, the story expands into a meditation on **regional identity and historical layering**. As we’ve read, those variations aren’t just matters of taste but markers of geography, migration, and cultural blending. The acknowledgment of Indigenous and African roots gestures toward the deeper and often erased histories embedded in “Southern” foodways. What feels like a casual backyard gathering is, on another level, the product of centuries of adaptation, exchange, and inequality.
+I know the day I make her lasagna I’ll cry. It’s a reminder of how food connects us in ways we would never imagine. That is why I included a short bit about how to make it. My grandma loved everyone and could make friends with a rock on the side of the road. If I told her I shared her recipe she’d say, “Oh you little turd.” But there would be no bite behind it. Because secretly she would love to know people are still eating it. I chose this story because food isn’t just about eating. Its about connecting with people who you never would have talked to before. Its about conveying emotions like grief in a way that is meant to comfort. “Authentic” foods that brings up memories of a time that was a little easier on the mind.
 
-Finally, the closing reflection — that the barbecue was “bigger than one meal” and “about belonging” — aligns with our discussions about **food as cultural memory**. The student recognizes that what endures isn’t just the recipe or the flavor, but the shared experience: the smoke, the labor, the crowd, the sense of continuity. In that moment, the story illustrates how oral histories capture what archives often miss — the *ephemeral* parts of culture that make history feel alive. Through sound, emotion, and storytelling, this single barbecue becomes a microhistory of American food itself: regional yet shared, ordinary yet full of meaning.
+In the end, I hope that food continues to bring people together. From every corner of the globe and every culture, because I think that is what it was meant to do.
