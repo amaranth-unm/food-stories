@@ -13,7 +13,7 @@ tags:
 ---
 
 # Encounters with the apple
-This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” usually meant something you did on a gas grill in the backyard. She moved to North Carolina for school, and that’s where she got invited to her first real Southern barbecue. 
+Find here three brief anecdotes in response to a prompt to share "any memorable experience with apples in one's life." Respondents are Nino (34, resident of western Massachucettes), Scout (27, resident of NYC), and Dawood (29, roaming resident of all over).  
 
 {% include figure.html
   class="right"
@@ -24,7 +24,7 @@ This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” u
 
 
 ## The mundane and the magical
-She didn’t know it at the time, but that afternoon ended up changing the way she thought about food and history. A student recalls experiencing their first authentic Southern barbecue, where the smell of smoke, the sound of conversation, and the sense of community transformed a meal into something much deeper. They learn from the pitmaster about the tradition’s roots, passed down through generations and reflected in distinct regional sauce styles tied to Southern history. By the end, the student realizes that barbecue is not just food—it’s a living expression of history, family, and belonging.
+
 
 ### Nino - the fruit of knowledge 
 {% include audio.html
