@@ -19,7 +19,7 @@ In April of 2024, my Mamaw passed away. It was a rough time, but something I kee
   class="right"
   width="40%"
   caption="What a nice view"
-  image-path="lasagna.jpg"
+  image-path="lasagna.png"
 %}
 
 
@@ -28,7 +28,7 @@ I didn't know what my Mamaw's recipes were going to mean to me until she was gon
 
 
 {% include audio.html
-  src="Food Stories Audio Mamaw.wav"
+  src="Mamaw audio.mp3"
 %}
 
 
