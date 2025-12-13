@@ -1,6 +1,6 @@
 ---
 title: The Apple
-author: Rae F
+author: Rae 
 location: all about
 thumbnail: bbq.png
 summary: Thoughts on America's favorite fruit
@@ -39,7 +39,7 @@ These conversations feature takes on the apple that range from the quotidienne t
 %}
 #### J - gourmandise 
 {% include audio.html
-  src="scout.mp3"
+  src="j.mp3"
 %}
 
 #### Dawood - feral finding
