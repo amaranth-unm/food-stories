@@ -13,7 +13,7 @@ tags:
 ---
 
 # Introduction
-In the audio clip below, I recount a meaningful family tradition that my family observes every year. The tradition was originally started by my grandmother and great-grandmother, however none of them are alive today to retell the story themselves. These traditions were passed down to me, and I continue to carry them on.   <img width="468" height="97" alt="image" src="https://github.com/user-attachments/assets/a7e94687-f889-4d57-836f-f8bddcbc0f28" />
+In the audio clip below, I recount a meaningful family tradition that my family observes every year. The tradition was originally started by my grandmother and great-grandmother, however none of them are alive today to retell the story themselves. These traditions were passed down to me, and I continue to carry them on.
 
 {% include figure.html
   class="right"
