@@ -15,7 +15,7 @@ tags:
 # Encounters with the apple
 by Rae (26, resident of Albuquerque, NM)
 
-Find here brief anecdotes in response to a prompt to share "any memorable experience with apples in one's life." Respondents are dear friends of mine: Nino (34, resident of western Massachusetts), Scout (27, resident of NYC), J (49, resident of Phoenix, AZ), and Dawood (29, roaming resident of all over).  
+Find here brief anecdotes in response to a prompt to share "any memorable experience with apples in one's life." Respondents are dear friends: Nino (34, resident of western Massachusetts), Scout (27, resident of NYC), J (49, resident of Phoenix, AZ), and Dawood (29, roaming resident of all over).  
 
 {% include figure.html
   class="right"
