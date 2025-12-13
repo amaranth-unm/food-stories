@@ -12,8 +12,8 @@ layout: base
 {% include figure.html
   class="right"
   width="40%"
-  caption="What a nice view"
-  image-path="bbq.png"
+  caption="My dad and me at another of his favorite restaurants in SF circa 2005"
+  image-path="IMG_2114.heic"
 %}
 
 This story comes from my dad, a self-professed foodie, in all its loaded connotations, and a San Franciscan for thirty years now who has never lived anywhere but the Bay Area. He is, in my opinion, more than an accomplished home chef and I would choose his cooking over most other dining experiences. The formative restaurant visit he mentions was at Zuni Cafe, a San Francisco institution, and the restaurant my parents claim they took me to straight from the hospital after I was born, though I have always been dubious of that account. 
