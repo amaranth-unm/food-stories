@@ -2,7 +2,7 @@
 title: South Carolina Oyster Roasts
 author: Alyssa Garcia
 location: Charleston, SC
-thumbnail: bbq.png
+thumbnail: oyster roast.webp
 summary: Memories of the fall/winter oyster roasts where friends and family would gather for all-day celebration.
 date: 2025-12-12
 layout: base
@@ -28,7 +28,7 @@ She didn’t know it at the time, but that afternoon ended up changing the way s
 
 
 {% include audio.html
-  src="bbq.mp3"
+  src="Oyster roast.mp3"
 %}
 
 
