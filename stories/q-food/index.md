@@ -1,19 +1,15 @@
 ---
 title: My First BBQ
-author: Fred Gibbs
-location: Durham, NC
+author: Quinn Rogers
+location: San Francisco, CA
 thumbnail: bbq.png
-summary: My first BBQ was hosted by Chef Boyardee and everyone was very happy. Yummy!
-date: 2025-08-01
+summary: My dad's staple childhood meal reminds him of how different his current culinary world is
+date: 2025-12-12
 layout: base
-tags:
-  - BBQ
-  - cookout
-  - community
+
 ---
 
-# Generic Story Title
-This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” usually meant something you did on a gas grill in the backyard. She moved to North Carolina for school, and that’s where she got invited to her first real Southern barbecue. 
+This story comes from my dad, a self-professed foodie, in all its loaded connotations, and a San Franciscan for thirty years now who has never lived anywhere but the Bay Area. He is, in my opinion, more than an accomplished home chef and I would choose his cooking over most other dining experiences. The formative restaurant visit he mentions was at Zuni Cafe, a San Francisco institution, and the restaurant my parents claim they took me to straight from the hospital after I was born, though I have always been dubious of that account. 
 
 {% include figure.html
   class="right"
@@ -23,7 +19,7 @@ This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” u
 %}
 
 
-## Something more specific
+## Spaghetti and Scallops
 She didn’t know it at the time, but that afternoon ended up changing the way she thought about food and history. A student recalls experiencing their first authentic Southern barbecue, where the smell of smoke, the sound of conversation, and the sense of community transformed a meal into something much deeper. They learn from the pitmaster about the tradition’s roots, passed down through generations and reflected in distinct regional sauce styles tied to Southern history. By the end, the student realizes that barbecue is not just food—it’s a living expression of history, family, and belonging.
 
 
@@ -32,12 +28,13 @@ She didn’t know it at the time, but that afternoon ended up changing the way s
 %}
 
 
-## Analysis: Smoke, Memory, and Belonging
+## Spaghetti and Scallops
 
-Listening back to this oral history, what first stands out is how quickly the story moves from describing food to describing a feeling. The narrator begins with sensory detail — the smell of smoke, the chatter under the trees, the look of the smoker — but those descriptions quickly become about *community* rather than cuisine. That shift captures one of the big themes we’ve discussed in class: that food events are not just about eating but about sustaining relationships, passing on traditions, and affirming a sense of belonging. The barbecue becomes a living archive of memory and connection — something that exists through repetition and participation more than through written recipes.
+I did not expect my dad to provide me with such a perfect example of an authentically American concoction in the hotdog bun garlic bread he describes. Garlic bread is already a classically Italian American creation, loosely inspired by Italian bruschetta. While the hot dog bun is obviously not authentic, though arguably neither is garlic bread itself, ingenuity has always been a mark of the authentic. Authenticity is often the adaptation of existing formulas using ingredients and techniques that are available to you. Like my dad mentioned, “good bread” (and as someone who has insider knowledge into what my dad’s definition of good bread is as Tartine and Acme’s revival of sourdough in the late 80s and 90s in San Francisco, it would not have even existed in San Jose in the 70s) was not available. While freshly grated parmesan and fresh garlic may have been available, they may not have been financially accessible to my grandma or afforded the same kind of convenience as Kraft parmesan and garlic salt.  
 
-The story also reflects the idea of **embodied knowledge and generational transmission**. The pitmaster’s line about learning from his grandfather and letting “the meat tell you when it’s ready” shows that expertise here isn’t formal or codified; it’s experiential and relational. In class, we’ve talked about how food work often relies on skills that are undervalued or unrecorded — the kinds of knowledge passed along by doing, by apprenticeship, by memory. In this sense, barbecue exemplifies what we might call *vernacular expertise*: a tradition maintained through labor, observation, and care, rather than through institutional authority.
+I was struck by the legacy of the preparation of spaghetti in the US in the early 1900s, in my grandmother’s version some 70 years later: the overcooking of the pasta, the watered down version of garlic in the form of garlic salt, and the use of canned tomato sauce and ground beef. My dad talks too about his preference for pasta today, this freshly milled, freshly pulled version which would have been considered foreign and dirty in that same period of early introduction to pasta in the States, but has now become indicative of a kind of romanticisation of manual labor and peak-freshness that marks the upper class food culture of the Bay Area. 
 
-When the narrator mentions the regional sauces — vinegar, mustard, tomato — and notes that each corresponds to a different part of the South, the story expands into a meditation on **regional identity and historical layering**. As we’ve read, those variations aren’t just matters of taste but markers of geography, migration, and cultural blending. The acknowledgment of Indigenous and African roots gestures toward the deeper and often erased histories embedded in “Southern” foodways. What feels like a casual backyard gathering is, on another level, the product of centuries of adaptation, exchange, and inequality.
+I was also struck by my dad’s perception of himself as naive, almost as though he had the wool pulled over his eyes, prior to his transformative restaurant experience in San Francisco in that he was only capable of appreciating his mother’s cooking at the time because he had never known anything else. It is true that upon having more ressources, you may have access to a wider variety of dining experiences but my dad seems fixated on the idea that more resources necessarily translates to “better” food or food at a superior level as he suggests. My dad finds value in his mother’s ingenuity, in her providing him with nourishment, in sharing a meal with his family, though not in what he believes to be the quality of the food. I am curious about how he describes this turn in interest in food, especially in the Bay Area, as a universal one. The evidence of the turn he is describing can actually be traced in part to Alice Waters, a colleague of the chef at the restaurant he mentions. Another marker of this turn can be found in his description of his new experiences as involving a “purity of ingredients”. The elite food culture of the Bay Area, at least in the way that I’ve experienced it, could be described as a divorce from Countercuisine’s radical roots while preserving the emphasis on process, organic techniques, local and seasonal ingredients, innovation, and ethnic diversity. 
 
-Finally, the closing reflection — that the barbecue was “bigger than one meal” and “about belonging” — aligns with our discussions about **food as cultural memory**. The student recognizes that what endures isn’t just the recipe or the flavor, but the shared experience: the smoke, the labor, the crowd, the sense of continuity. In that moment, the story illustrates how oral histories capture what archives often miss — the *ephemeral* parts of culture that make history feel alive. Through sound, emotion, and storytelling, this single barbecue becomes a microhistory of American food itself: regional yet shared, ordinary yet full of meaning.
+Ultimately, I am extremely touched by the potential impact of loss on experiences of food. Perhaps our connection to food is heightened when we can no longer experience it in the same way, with the same people, the same ingredients, the same techniques, in the same space, in the same period of life. That my grandmother made my father his first meal and that he made her her last, evokes something incredibly heartbreaking and yet comforting about the ways in which our relationships change with our parents as we all age. Our memories of food even become memorials. 
+
