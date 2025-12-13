@@ -26,22 +26,22 @@ Find here three brief anecdotes in response to a prompt to share "any memorable 
 ## The mundane and the magical
 
 
-### Nino - the fruit of knowledge 
+#### Nino - the fruit of knowledge 
 {% include audio.html
   src="nino.mp3"
 %}
-### Scout - sliced just right 
+#### Scout - sliced just right 
 {% include audio.html
   src="scout.mp3"
 %}
 
-### Dawood - feral finding
+#### Dawood - feral finding
 {% include audio.html
   src="dawood.mp3"
 %}
 
 
-## Analysis: Smoke, Memory, and Belonging
+## A snack, a spectacle, a symbol?
 
 Listening back to this oral history, what first stands out is how quickly the story moves from describing food to describing a feeling. The narrator begins with sensory detail — the smell of smoke, the chatter under the trees, the look of the smoker — but those descriptions quickly become about *community* rather than cuisine. That shift captures one of the big themes we’ve discussed in class: that food events are not just about eating but about sustaining relationships, passing on traditions, and affirming a sense of belonging. The barbecue becomes a living archive of memory and connection — something that exists through repetition and participation more than through written recipes.
 
