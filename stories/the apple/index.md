@@ -14,6 +14,7 @@ tags:
 
 # Encounters with the apple
 by Rae F. (26, resident of Albuquerque, NM)
+
 Find here three brief anecdotes in response to a prompt to share "any memorable experience with apples in one's life." Respondents are dear friends of mine: Nino (34, resident of western Massachusetts), Scout (27, resident of NYC), and Dawood (29, roaming resident of all over).  
 
 {% include figure.html
@@ -25,7 +26,7 @@ Find here three brief anecdotes in response to a prompt to share "any memorable 
 
 
 ## The mundane and the magical
-These conversations feature takes on the apple that range from the quotidienne to the enlightening. Sometimes discussed in utilitarian terms, sometimes reverred as a source of awe, the apple evoked thorough reply from every speaker. No conversation was confined to the gustatory realm. Yet, taste remained a significant factor in my friends' articulation of their experience with apples. 
+These conversations feature takes on the apple that range from the quotidienne to the enlightening. Sometimes discussed in utilitarian terms, sometimes reverred as a source of awe, the apple evoked thorough reply from every speaker. No conversation was confined to the gustatory realm. Yet, taste and texture remained a significant factor in my friends' articulation of their experience with apples...woe is the humble, meealy apple. All hail the *crisp*. 
 
 
 #### Nino - the fruit of knowledge 
@@ -44,6 +45,8 @@ These conversations feature takes on the apple that range from the quotidienne t
 
 
 ## A snack, a spectacle, a symbol?
+
+The apple is at once a fruit of great simplicity and complication. Little red globe, fruit of *Malus domestica*, meat of pie, source of poison (both literal and literary), symbol of the pure and the pastoral, and poster-child of modern horticulture. 
 
 Listening back to this oral history, what first stands out is how quickly the story moves from describing food to describing a feeling. The narrator begins with sensory detail — the smell of smoke, the chatter under the trees, the look of the smoker — but those descriptions quickly become about *community* rather than cuisine. That shift captures one of the big themes we’ve discussed in class: that food events are not just about eating but about sustaining relationships, passing on traditions, and affirming a sense of belonging. The barbecue becomes a living archive of memory and connection — something that exists through repetition and participation more than through written recipes.
 
