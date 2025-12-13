@@ -28,11 +28,17 @@ Find here three brief anecdotes in response to a prompt to share "any memorable 
 
 ### Nino - the fruit of knowledge 
 {% include audio.html
-  src="bbq.mp3"
+  src="nino.mp3"
 %}
 ### Scout - sliced just right 
+{% include audio.html
+  src="scout.mp3"
+%}
 
 ### Dawood - feral finding
+{% include audio.html
+  src="dawood.mp3"
+%}
 
 
 ## Analysis: Smoke, Memory, and Belonging
