@@ -2,7 +2,7 @@
 title: Mamaw's Lasanga
 author: Jessica Neubauer
 location: Abq, NM
-thumbnail: bbq.png
+thumbnail: lasagna.png
 summary: A story about the significance of food after loss.
 date: 2025-12-12
 layout: base
