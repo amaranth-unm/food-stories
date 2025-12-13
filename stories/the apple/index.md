@@ -15,7 +15,7 @@ tags:
 # Encounters with the apple
 by Rae (26, resident of Albuquerque, NM)
 
-Find here brief anecdotes in response to a prompt to share "any memorable experience with apples in one's life." Respondents are loved ones: Nino (34, resident of western Massachusetts), Scout (28, resident of NYC), J (49, resident of Phoenix, AZ), and Dawood (30, roaming resident of all over).  
+Find here three brief anecdotes in response to a prompt to share "any memorable experience with apples in one's life." Respondents are loved ones: Nino (34, resident of western Massachusetts), Scout (28, resident of NYC), and Dawood (30, roaming resident of all over).  
 
 {% include figure.html
   class="right"
@@ -37,18 +37,13 @@ These conversations feature takes on the apple that range from the quotidienne t
 {% include audio.html
   src="scout.mp3"
 %}
-#### J - gourmandise 
-{% include audio.html
-  src="j.mp3"
-%}
-
 #### Dawood - feral finding
 {% include audio.html
   src="dawood.mp3"
 %}
 
 
-## A snack, a spectacle, a symbol?
+## A snack, a symbol, a spectacle?
 
 The apple is at once a fruit of great simplicity and complication. Little red globe, fruit of *Malus domestica*, meat of pie, source of poison (both literal and literary), symbol of the pure and the pastoral, and poster-child of modern horticulture. These conversations speak to the roles apples can play in our lives and how these roles are shaped by both individual lived experience and a culturally-constructed consciousness. I myself fell in love with apples while living in The Big Apple, and they’ve since captivated my amusement as a good that is simultaneously omnipresent and entirely taken for granted. 
 
