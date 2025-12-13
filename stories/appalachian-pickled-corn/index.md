@@ -2,7 +2,7 @@
 title: Appalachian Pickled Corn
 author: Dillon Taylor
 location: Los Lunas, NM
-thumbnail: 
+thumbnail: pickled-corn-image.webp
 summary: Storries of food preservation methods in West Verginia. 
 date: 2025-12-12
 layout: base
