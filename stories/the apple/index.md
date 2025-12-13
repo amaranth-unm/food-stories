@@ -1,18 +1,18 @@
 ---
-title: My First BBQ
-author: Fred Gibbs
-location: Durham, NC
+title: The Apple
+author: Rae French
+location: all about
 thumbnail: bbq.png
-summary: My first BBQ was hosted by Chef Boyardee and everyone was very happy. Yummy!
-date: 2025-08-01
+summary: Thoughts on America's favorite fruit
+date: 2025-12-10
 layout: base
 tags:
-  - BBQ
-  - cookout
-  - community
+  - apple
+  - wild
+  - tree
 ---
 
-# Generic Story Title
+# Encounters with the apple
 This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” usually meant something you did on a gas grill in the backyard. She moved to North Carolina for school, and that’s where she got invited to her first real Southern barbecue. 
 
 {% include figure.html
@@ -23,10 +23,10 @@ This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” u
 %}
 
 
-## Something more specific
+## The mundane and the magical
 She didn’t know it at the time, but that afternoon ended up changing the way she thought about food and history. A student recalls experiencing their first authentic Southern barbecue, where the smell of smoke, the sound of conversation, and the sense of community transformed a meal into something much deeper. They learn from the pitmaster about the tradition’s roots, passed down through generations and reflected in distinct regional sauce styles tied to Southern history. By the end, the student realizes that barbecue is not just food—it’s a living expression of history, family, and belonging.
 
-
+# Nino - The fruit of knowledge 
 {% include audio.html
   src="bbq.mp3"
 %}
