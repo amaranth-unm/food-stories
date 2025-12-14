@@ -20,8 +20,8 @@ Find here three brief anecdotes in response to a prompt to share "any memorable 
 {% include figure.html
   class="right"
   width="40%"
-  caption="What a nice view"
-  image-path="bbq.png"
+  caption="Nino and apple walk the streets of West Philly"
+  image-path="ninobites.jpg"
 %}
 
 
