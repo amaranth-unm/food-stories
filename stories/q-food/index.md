@@ -12,7 +12,7 @@ layout: base
 {% include figure.html
   class="right"
   width="60%"
-  caption="My dad and me at another of his favorite restaurants in SF, circa 2005"
+  caption="Us at another of my dad's favorite restaurants in SF, circa 2005"
   image-path="dadimage.png"
 %}
 
