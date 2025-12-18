@@ -2,7 +2,7 @@
 title: Christmas Rolls!
 author: David Cooper
 location: Columbia, MO
-thumbnail: bbq.png
+thumbnail: family.jpg
 summary: A Story of Sweden to the Southwest!
 date: 2025-12-11
 layout: base
@@ -19,7 +19,7 @@ This story comes from David Cooper, who grew up in Las Cruces, New Mexico, but a
   class="right"
   width="40%"
   caption="My Grandma's Extended Family"
-  image-path="10 Thanksgiving (1).jpg"
+  image-path="family.jpg"
 %}
 
 

@@ -2,7 +2,7 @@
 title: Summer Food Traditions
 author: Michelle Dombrowski
 location: Milwaukee, WI
-thumbnail: assets/summer-fun-times.png
+thumbnail: summer-fun-times.png
 summary: The nostalgia and belonging from summer food traditions!
 date: 2025-08-01
 layout: base
