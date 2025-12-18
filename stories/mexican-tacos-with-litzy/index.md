@@ -2,7 +2,7 @@
 title: Mexican Tacos!
 author: Vanessa Salazar
 location: Mexico City, Mexico
-thumbnail: IMG_E5539.HEIC 
+thumbnail: IMG_E5539.jpg
 summary: Learning how to make Mexican tacos with my good friend Litzy in Mexico!
 date: 2025-08-01
 layout: base
@@ -19,7 +19,7 @@ This story comes from a student abroad trip I went on in 2024. On one particular
   class="right"
   width="40%"
   caption="Taco from the cooking school"
-  image-path="IMG_E5539.HEIC"%}
+  image-path="IMG_E5539.jpg"%}
 
 
 ## How they taught us to make tacos
