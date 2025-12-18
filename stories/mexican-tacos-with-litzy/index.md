@@ -2,7 +2,7 @@
 title: Mexican Tacos!
 author: Vanessa Salazar
 location: Mexico City, Mexico
-thumbnail: Mexican Tacos 
+thumbnail: IMG_E5539.HEIC 
 summary: Learning how to make Mexican tacos with my good friend Litzy in Mexico!
 date: 2025-08-01
 layout: base
