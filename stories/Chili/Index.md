@@ -1,0 +1,57 @@
+---
+title: New Mexican Chili
+author: Elizabeth Salway
+location: Rio Rancho, NM
+thumbnail: ![image](https://github.com/user-attachments/assets/2b0e7464-1f63-4350-bd5b-3d6a69b564d2)
+summary: A very yummy chili recipie! 
+date: 2025-12-12
+layout: base
+tags:
+  - chili
+  - cooking
+  - community
+---
+
+# Beth's Chili Recipe 
+About the speaker: My name is Elizabeth Salway, or Beth, I am a junior at the University of New Mexico, history major and museum studies minor. I am 21 and I grew up in the United States, specifically the state of New Mexico. I do not have strong ties to any of my ancestral cultures, but I am genetically Danish and English, if you trace it back far enough anyway. 
+
+ ![image](https://github.com/user-attachments/assets/140d3720-ddf0-487f-a925-8fefe87dcdd3)
+
+Green Chili
+
+
+
+## Audio and Audio Transcription 
+
+Audio: 
+(https://drive.google.com/file/d/1xfN7R3OiX5cE6ErrdN-VlNV2JmR2mvO0/view?usp=drivesdk)
+
+Trascription: 
+
+Hello, I’m Elizabeth Salway and today I am going to talk about my chili recipe. My recipe is an amalgamation of many different chili recipes, kind of a frankenstein situation. I did a lot of research, by which I mean I scrolled pinterest and stole whatever sounded good. The recipe took a couple different forms during the testing stage, before becoming what it is now. It's similar to Texas chili, except that I include beans. Chili typically uses red meat, some people use chicken, but I do not. As far as I am concerned, chicken chili isn’t the same, but that's just a personal preference. I use chuck roast, because ground beef is simply not as good. It does mean more labor, but the end result is worth it. I am obviously biased, but this chili is pretty damned good, if I do say so myself. And, if my hype for the recipe isn't enough just ask one of the many people who consistently ask me to make it. My brother, for example, is a big fan. I often make it for his birthday. 
+Anyway, without further adieu, I’ll jump into the recipe. The ingredients list is extensive, so just bare with me. You're going to need a good sized chuck roast, proportional to the number of people you would like to feed. Luckily the chili stretches well, so even if it has less meat it's still going to feed a lot of people. As far as the actual chilies go you will  need 2-3 jalapenos, one or two habanero peppers depending on your preference, and lots of green chili, approximately 3-4. I don't measure the green chili I just use as much as I want, which tends to result in a good sized heap. Depending on where you live green chili may be hard to find. I’m a New Mexico native so I am rather fond of green chili and personally I just don't feel like the recipe is the same without it. You can use fresh or frozen, or in an emergency canned green chili will do. But, I only resort to canned if I have to. The vegetables in this recipe include two bell peppers, I use one red and one yellow, but honestly it's arbitrary, and a large white onion. Then I use three kinds of beans, one can of each, kidney beans, black beans, and pinto beans. For flavoring and spices you will need salt, pepper, garlic (fresh not powdered), onion powder, chili powder, paprika, red cayenne pepper powder, ginger, cumin, chipotle powder, and cocoa powder. The cocoa powder is the most important, it may seem odd but just trust me. It helps bring out all the other spices and gives it a richer flavor. You will use a full tablespoon of cocoa powder but unfortunately I don't have any measurements for the other spices. I am so sorry to all who are frustrated by this, but I simply season to my hearts content. Lastly, you will need a small 6 oz can of tomato paste, chicken and beef bouillon (I use the brand better than bouillon, because it's good and I can easily find it in my local grocery store). And then worcestershire sauce, olive oil, water, and corn starch for thickening. For toppings and serving I use sour cream, cilantro, sliced avocado and tomatoes, shredded cheese, and corn chips for dipping and crunch. 
+The process is rather simple, but it does take at least 5 hours of babysitting. You will start by chopping all the chilis, the bell peppers, and the onion. Add them to a large pot with a little bit of olive oil and some fresh garlic, I use a big heaping spoonful of garlic, don't be afraid, just use more than you think you should. Simmer all this together at medium heat until the onion starts to get a little transparent and then add all your spices except for the cocoa powder. Again, I have no measurements, but the vegetables should be coated in a healthy layer of red and you should be able to smell the cumin peaking through all the other spices. Stir it all together and then add your chuck roast on top. No need to cut it up, just stick the whole thing in there. At this point I like to move the vegetables around so they cover the top of the roast and kind of spread the seasoning around. Now you will add enough water to just barely cover the top of the roast. Then add the chicken and beef bouillon, a spoonful or cube of each, worcestershire sauce, half the can of tomato paste, cocoa powder, and if needed more spices. Now you will lower the heat, put a lid on top, and let it simmer for 4 hours. Occasionally, once or twice an hour, check in on it, stir to ensure nothing burns on the bottom and if needed top off the water. After an hour or two your entire house should smell like chili. At the 4 hour mark check on the chili, at this point the meat should be falling apart, you can use a fork to help it along and shred the rest. If it's not falling apart it needs some more time. After the meat has been shredded you will add your beans, you don't want to put them in too early because then you will end up with mush but you want them to have enough time to soak up some of the flavor. I usually drain two of the cans and leave the last un-drained because it helps thicken it, but I don't want all the liquid because it will dilute the chili. Lastly let it simmer for another hour before fully thickening the chili. I use around 1 ½ to 2 tablespoons of corn starch. Put the corn starch in a cup and add a little water, stir it together until fully combined, this will help you avoid lumps in the chilli. Then pour your mixture into the chili and stir. You can repeat this step as many times as you need until it is thickened to your liking. After you’ve thickened it to your liking you can pull it off the heat and serve! 
+This chili has become a celebration food for my family, typically made for special occasions, but sometimes I make it just because I want it and no one can stop me. It’s deceptively complicated, as in it's actually very easy, but anyone without experience tends to think it's laborious. It's a labor of love more than anything else, I put care into it, but my familiarity with the process means I don’t need to exert much of an effort. My favorite thing about this recipe is that it’s a crowd pleaser, which means it's my go to recipe for friends and family get togethers. It’s just not the kind of food you eat by yourself. I mean firstly it makes a whole lot of food and If I was being sentimental, which I guess I am, I would say it pairs well with a good conversation. Anyway, if you decide to make it for yourself I recommend you take some time to enjoy the process. And, I sure hope you like spicy food, because if not you are in for a very rude awakening. Enjoy!
+
+
+## Analysis: Beef, Beans, and Green Chili!
+
+Chili! This recipe has Mexican and American origins. The use of chili peppers in cooking is not a new idea, although we do not know the exact beginning. The writings of Friar Bernardino de Sahagún, while visiting Tenochtitlan the Aztec capital, document the use of chilies in cooking as far back as 1529. Although, it's likely a much older practice. The use of beef in chili began after the Spanish introduced the livestock to Mexico and established ranches. From there the invention of chili is typically attributed to the ranchers of North America's south west. Chili on carne, meaning chili with meat, as it is known today originates in the U.S. State of Texas, and as of 1977 it is their official dish. Today there is a wide variety of chili recipes and dishes served across the united states in a number of forms including in some local restaurants, fast food restaurants like Wendy’s, and in the form of canned chili which can be found in nearly all American grocery stores. It is also a popular home cooking dish with a chili recipe featured in countless cookbooks and online blogs. The dish even has its own fan club, a community referred to as chili heads. The dish is also featured in a number of public centered activities including chili cook offs, in which you compete to prove your chili is better than anyone else's. The popularization of chili throughout the United States has created a huge divide over what actually constitutes the dish and how to define it. Including but not limited to debates concerning the definition of chili and whether the inclusion of beans or pasta is ok or not. 
+	The food story told here is influenced by the history outlined above and the speaker's personal connection to the dish. Which, in turn, is influenced by the speaker's place of origin and their community's connection to the dish. One such connection is highlighted by the speaker's emphasis on green chili, a native New Mexican agricultural product, as an essential ingredient. Additionally we can tell, based on the speaker's explanation of the evolution of the recipe, that, although it is based in a long history, this recipe itself is not yet long lived. It is also not based on a personal family recipe, but rather the result of internet research. This is illustrative of contemporary American food culture, in which the national origins of a dish do not always influence its cultural importance to those who make and eat it. Therefore, we can see the battling concepts of local, national, and personal food culture experienced by the American people in the twenty-first century. The speaker is culturally connected to a local plant, a historically Mexican practice, and a new changing cultural landscape created by an entire generation's life long access to the world wide web. Furthermore, the speaker mentions having access to a grocery store and preferring a specific kind of bouillon. The speaker also lists multiple ingredients only available to them due to the current globalized food network those grocery stores participate in. For example, cocoa powder, which is listed as not only a simple spice but the most important ingredient. The combination of  cocoa powder, green chili, and processed and branded bouillon would not be possible in a previous era. In conclusion, this recipe and story are the result of the speaker's personal experiences and large scale influences made by the internet and the industrialized food industry and that is why it is the perfect example of contemporary American food practices.   
+
+
+# Sources 
+
+(https://en.wikipedia.org/wiki/Chili_con_carne 
+
+https://www.seriouseats.com/guide-to-chili-styles-types-of-chili-recipes 
+
+https://www.chilicookoff.com/ 
+
+https://www.motherjones.com/food/2014/12/toms-kitchen-chili-unite-vegans-and-purists-anger/ 
+
+https://www.southernliving.com/food/dish/chili/chili-recipe-debate-with-or-no-beans  
+
+https://www.dinersdriveinsdiveslocations.com/chili-recipes-diners-drive-ins-dives-guy-fieri.html 
+)
+
