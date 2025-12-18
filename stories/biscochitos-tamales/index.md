@@ -2,7 +2,7 @@
 title: My Family Tradition of Biscochitos and Tamales 
 author: Jocelyn Garcia 
 location: Albuquerque, NM
-thumbnail: 3889222-d920-4860-aabe-ce944e4d4d44.png
+thumbnail: a3889222-d920-4860-aabe-ce944e4d4d44.png
 summary: Every year, my family and I come together and celebrate the holidays by making biscochitos and tamales.
 date: 2025-12-12
 layout: base

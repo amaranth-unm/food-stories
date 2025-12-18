@@ -2,7 +2,7 @@
 title: The Apple
 author: Rae 
 location: all about
-thumbnail: bbq.png
+thumbnail: ninobites.jpg
 summary: Thoughts on America's favorite fruit
 date: 2025-12-10
 layout: base
